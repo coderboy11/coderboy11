@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently seeking a summer internship in Software Engineering<br>I'm currently learning more about Blockchain and Computational Theory<br>I'm currently completing a game development course and coding my first Video-Game<br>How to Reach Me: <br>LinkedIn: https://www.linkedin.com/in/rahulvyas11/<br>Instagram: @ravyas11<br>Email: ravyas11@gmail.com<br>Pronouns: He/His<br>Fun Fact: I am partially colorblind
+
+- 🔭 I’m currently working on finding a summer internship
+- 🌱 I’m currently learning how to create 2-D Platformers on Unity!
+- 👯 I’m looking to collaborate on a mobile application using SwiftUI. DM for Ideas
+- 🤔 I’m looking for help with finding an internship for Summer 2023. 
+- 💬 Ask me about my research paper on path-finding algorithms
+- 📫 How to reach me: ravyas11@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am colorblind, though I didn't find out until high-school!
 
 
 ## 🌐 Socials:
